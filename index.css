@@ -6,6 +6,7 @@
 
 #head{
     background-color: rgb(76, 76, 236);
+    background-size: fit;
     color:white;
 }
 
@@ -40,6 +41,7 @@
 }
 #body{
     background-color: rgb(226, 226, 227);
+    background-size: fit;
     padding: 30px ;
 }
 .results{
